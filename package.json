@@ -1,0 +1,16 @@
+{
+  "name": "syncdata",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10",
+    "node-fetch": "^2.6.1",
+    "node-gzip": "^1.1.2",
+    "nodemon": "^2.0.7"
+  }
+}
